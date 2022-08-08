@@ -1,0 +1,26 @@
+*{
+    background-attachment: fixed;
+    background-color: rgb(36, 81, 44);
+}
+h1{
+    text-align: center;
+}
+figure{
+    position: relative;
+    float: right;
+    margin-top: 10px;    
+}
+img{
+    width: 400px;
+}
+figcaption{
+    margin-top: 5px;
+}
+figcaption a{
+    color: darkcyan;
+}
+ol {
+    text-align: left;
+    margin-top: 40px;
+    font-size: larger;
+}
