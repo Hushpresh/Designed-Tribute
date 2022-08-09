@@ -12,6 +12,7 @@ figure{
 }
 img{
     width: 400px;
+    Border: 10px;
 }
 figcaption{
     margin-top: 5px;
